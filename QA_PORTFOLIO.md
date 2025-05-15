@@ -1,4 +1,4 @@
-# 🧪 Shakhawat Hossain – QA & Testing Portfolio
+# 💻 Shakhawat Hossain – QA & Testing Portfolio
 
 Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curated collection of test documentation, bug reports, research projects, and QA audits that showcase my approach to quality, usability, and product improvement.
 
@@ -229,8 +229,8 @@ QA-Portfolio/
 ## 📞 Contact
 
 - 🌐 **Portfolio**: [shakhawat.digital](https://shakhawat.digital)
-- 📧 **Email**: hello@shakhawat.digital
-- 🔗 **LinkedIn**: [linkedin.com/in/mdshakhawathossain](https://linkedin.com/in/mdshakhawathossain)
+- 📧 **Email**: shossain.um@gmail.com
+- 🔗 **LinkedIn**: [linkedin.com/in/mds-hossain](https://linkedin.com/in/mds-hossain)
 - 📍 **Location**: Germany *(open to relocation/remote)*
 
 
