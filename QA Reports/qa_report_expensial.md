@@ -52,6 +52,3 @@ The **Expensial** platform functions well with minor UI/UX improvements needed. 
 
 ---
 
----
-
-These are the detailed documents for **Expensial (Expense Tracker)**. I will continue working on the test cases and reports for **Healthify**, **Taskyfier**, and **Mobile-Assisted Classroom Activity System** in the next response. Let me know if you need further adjustments!
