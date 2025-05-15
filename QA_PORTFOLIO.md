@@ -68,41 +68,49 @@ I'm a QA Engineer and UX/UI Designer with 2+ years of experience combining testi
 
 ## 💼 QA Job Experience
 
-**QA and Test Management Engineer**  
-*Cogitanda Dataprotect AG – Cologne, Germany (Dec 2023 – Sep 2024)*  
-- Conducted functional, regression, and exploratory tests for web insurance platforms.  
-- Created test documentation using QA Touch and Jira.  
-- Participated in Agile ceremonies and sprint testing cycles.
+### 🔹 Software QA and Test Management Engineer  
+**Cogitanda Dataprotect AG** | Cologne, Germany  
+12/2023 – 09/2024  
+- Executed 100+ manual, exploratory, regression, and destructive tests for product release.  
+- Streamlined test lifecycle using QA Touch, JIRA, and Confluence, boosting efficiency by 20%.  
+- Collaborated with IT team of 12 to enhance UAT and enable Robotic Process Automation.
 
-**Research Associate – CX & User Research**  
-*abh Market Research GmbH – Cologne, Germany (Aug 2022 – Jun 2023)*  
-- Conducted UX research, usability testing, and persona interviews.  
-- Delivered actionable user behavior insights and heuristic evaluation findings.
+### 🔹 Intern, Software QA and Usability Testing  
+**CodeNotary Europe GmbH** | Munich, Germany  
+08/2023 – 10/2023  
+- Resolved 15+ critical defects in Linux-based environments, ensuring product quality.  
+- Optimized workflows in DevOps, UI automation, and front-end testing for 10% faster delivery.  
+- Achieved 95% test coverage for enterprise web apps through well-structured test strategies.
 
-**UX/UI Assistant & Usability Tester**  
-*FabLab – University of Siegen, Germany (Jan 2022 – Jul 2022)*  
-- Facilitated cognitive walkthroughs and usability tests.  
-- Developed prototypes and user flows for digital prototypes.
+### 🔹 Research Assistant, UX/UI Design & Usability Testing  
+**FabLab, University of Siegen** | Siegen, Germany  
+01/2022 – 07/2022  
+- Developed web platform using PHP and XAMPP to support 20+ EU academic research projects.  
+- Designed and tested scalable UX/UI components with 50+ users via structured usability testing.  
+- Enhanced 3D printing designs through process optimization, cutting prototyping errors by 25%.
 
-**Junior Digital Experience Designer**  
-*PriyoShop – Dhaka, Bangladesh (Jun 2020 – May 2021)*  
-- Carried out QA checks for e-commerce UX.  
-- Improved UI consistency and reduced checkout issues by 20%.
-
-**Freelance QA & Web Tester**  
-*Various Projects – Remote (2021 – Ongoing)*  
-- Bug reporting and testing for startup MVPs.  
-- Specialized in usability and mobile app QA.
+### 🔹 Junior QA Engineer  
+**PriyoShop Limited** | Dhaka, Bangladesh  
+03/2020 – 09/2020  
+- Delivered 99% bug-free releases via cross-browser tests for 500K+ monthly e-commerce users.  
+- Accelerated defect resolution time by 30% using detailed test plans and sprint-level cases.  
+- Eliminated 15% integration bugs via CI/CD, Selenium, Postman, JIRA, and regression testing.
 
 ---
 
 ## 🎓 Education
 
-**M.Sc. Human-Computer Interaction**  
-University of Siegen, Germany *(2021 – 2024)*
+### 🎓 Master of Science (MSc) in Human-Computer Interaction (HCI)  
+**University of Siegen** | Germany  
+10/2020 – 01/2024  
+Grade: Good (German Standard)
 
-**B.Sc. in Computer Science**  
-Daffodil International University, Bangladesh *(2015 – 2019)*
+### 🎓 Bachelor of Science (BSc) in Computer Science  
+**University of Macau** | Macau, China  
+08/2015 – 01/2020  
+- Asian Merit Scholarship (2015–2020)  
+- Gold Student Award (2017)  
+- Residential College Fellowship Award (2016)
 
 ---
 
@@ -123,7 +131,7 @@ Daffodil International University, Bangladesh *(2015 – 2019)*
 4. **Healthify – QA Evaluation**
 5. **Taskyfier – Test Strategy**
 6. **MACAS – UX Research**
-7. **PawTinder – Regression Testing**
+7. **DataCore – Regression Testing**
 
 ---
 
@@ -168,9 +176,7 @@ QA-Portfolio/
 │   └── test_report_healthify.md
 │
 └── README.md
-
-
----
+```
 
 ## 📚 Resources, Inspirations & Communities
 
@@ -213,58 +219,7 @@ Detail-oriented QA Engineer and UX researcher with a Master’s in Human-Compute
 
 ---
 
-## 💼 Work Experience
 
-### 🔹 Software QA and Test Management Engineer  
-**Cogitanda Dataprotect AG** | Cologne, Germany  
-12/2023 – 09/2024  
-- Executed 100+ manual, exploratory, regression, and destructive tests for product release.  
-- Streamlined test lifecycle using QA Touch, JIRA, and Confluence, boosting efficiency by 20%.  
-- Collaborated with IT team of 12 to enhance UAT and enable Robotic Process Automation.
-
-### 🔹 QA & UX Research Associate  
-**abh Market Research GmbH** | Cologne, Germany  
-08/2022 – 06/2023  
-- Delivered 10+ usability testing projects (web & app) for German mobility and finance clients.  
-- Conducted stakeholder workshops, test moderation, and UX audits for product improvement.  
-- Managed survey data and analysis with Excel, SPSS, and German-language client reports.
-
-### 🔹 Intern, Software QA and Usability Testing  
-**CodeNotary Europe GmbH** | Munich, Germany  
-08/2023 – 10/2023  
-- Resolved 15+ critical defects in Linux-based environments, ensuring product quality.  
-- Optimized workflows in DevOps, UI automation, and front-end testing for 10% faster delivery.  
-- Achieved 95% test coverage for enterprise web apps through well-structured test strategies.
-
-### 🔹 Research Assistant, UX/UI Design & Usability Testing  
-**FabLab, University of Siegen** | Siegen, Germany  
-01/2022 – 07/2022  
-- Developed web platform using PHP and XAMPP to support 20+ EU academic research projects.  
-- Designed and tested scalable UX/UI components with 50+ users via structured usability testing.  
-- Enhanced 3D printing designs through process optimization, cutting prototyping errors by 25%.
-
-### 🔹 Junior QA Engineer  
-**PriyoShop Limited** | Dhaka, Bangladesh  
-03/2020 – 09/2020  
-- Delivered 99% bug-free releases via cross-browser tests for 500K+ monthly e-commerce users.  
-- Accelerated defect resolution time by 30% using detailed test plans and sprint-level cases.  
-- Eliminated 15% integration bugs via CI/CD, Selenium, Postman, JIRA, and regression testing.
-
----
-
-## 🎓 Education
-
-### 🎓 Master of Science (MSc) in Human-Computer Interaction (HCI)  
-**University of Siegen** | Germany  
-10/2020 – 01/2024  
-Grade: Good (German Standard)
-
-### 🎓 Bachelor of Science (BSc) in Computer Science  
-**University of Macau** | Macau, China  
-08/2015 – 01/2020  
-- Asian Merit Scholarship (2015–2020)  
-- Gold Student Award (2017)  
-- Residential College Fellowship Award (2016)
 
 ---
 
