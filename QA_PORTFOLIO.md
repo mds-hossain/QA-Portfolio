@@ -1,7 +1,5 @@
 # 🧪 Shakhawat Hossain – QA & UX Portfolio
 
-![Banner](https://your-image-link.com/banner.png)
-
 Welcome to my Quality Assurance and UX Portfolio. Here you'll find a curated collection of test documentation, bug reports, research projects, and QA audits that showcase my approach to quality, usability, and product improvement.
 
 ---
