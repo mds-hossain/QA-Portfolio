@@ -6,30 +6,27 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 
 ## 📑 Table of Contents
 
-1. [About Me](#about-me)
-2. [QA Process & Methodologies](#qa-process--methodologies)
-3. [Skills, Tools and Technologies](#skills-tools-and-technologies)
-4. [Certifications & Courses](#certifications--courses)
-5. [QA Job Experience](#qa-job-experience)
-6. [Education](#education)
-7. [Academic Projects](#academic-projects)
-8. [Main QA Projects](#main-qa-projects)
-9. [QA Documentation](#qa-documentation)
-10. [QA Portfolio Structure](#qa-portfolio-structure)
-11. [Resources, Inspirations & Communities](#resources-inspirations--communities)
-12. [Contact](#contact)
+1. [About Me](#-about-me)
+2. [QA Process & Methodologies](#-qa-process--methodologies)
+3. [Skills, Tools & Technologies](#-skills-tools--technologies)
+4. [Education & Certifications](#-education--certifications)
+5. [QA Job Experience](#-qa-job-experience)
+6. [Academic Projects](#-academic-projects)
+7. [Main QA Projects](#-main-qa-projects)
+8. [QA Documentation](#-qa-documentation)
+9. [QA Portfolio Structure](#-qa-portfolio-structure)
+10. [Resources, Inspirations & Communities](#-resources-inspirations--communities)
+11. [Contact](#-contact)
 
 ---
 
 ## 👨‍💻 About Me
 
-## 👋 Hi, I’m Shakhawat!
+### 👋 Hi, I’m Shakhawat!
 
 I’m a multidisciplinary QA Engineer and UX Researcher with a passion for quality, usability, and user-first thinking. With over 3 years of hands-on experience, I specialize in manual testing, usability audits, and exploratory QA—ensuring that digital products not only work flawlessly but feel intuitive to use.
 
 Alongside my QA expertise, I bring additional skills in UX/UI design and web development, helping teams bridge the gap between user needs and technical delivery. Whether I’m writing test plans, conducting user research, or wireframing a new interface—I focus on building reliable, accessible, and meaningful digital experiences.
-
-Let’s create products users trust and love!
 
 > “Great digital experiences begin with precision and empathy.”
 
@@ -37,44 +34,67 @@ Let’s create products users trust and love!
 
 ## ⚙️ QA Process & Methodologies
 
-- **Testing Types**: Manual, Regression, Exploratory, Usability, A/B, Accessibility
-- **QA Practices**: 4-Eyes Principle, Think-Aloud Protocol, Cognitive Walkthroughs, Wizard of Oz
-- **Methodologies**: Agile, Scrum, Kanban
-- **Documentation**: Test Plans, Test Cases, Bug Reports, QA Audit Reports
+- **Testing Types**: Manual Testing, Functional Testing, Regression Testing, Usability Testing, A/B Testing, Accessibility (WCAG 2.1)
+- **Exploratory Testing Techniques**: Session-Based Testing, Mind Mapping, Error Guessing
+- **Test Lifecycle**: Requirement Analysis → Test Planning → Test Case Design → Execution → Defect Reporting → Retesting & Regression → Closure
+- **Best Practices**:
+  - 4-Eyes Principle (peer review)
+  - Think-Aloud Protocol for usability observation
+  - Cognitive Walkthroughs
+  - Wizard of Oz testing for early prototypes
+- **Development Methodologies**: Agile, Scrum, Kanban
+- **QA Documentation**: Test Plans, Test Cases, Bug Reports, QA Audit Reports
 
 ---
 
 ## 🛠 Skills, Tools & Technologies
 
-| **Category**            | **Tools & Skills**                                                                                                                                   |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **QA & Testing**        | Manual Testing, Functional Testing, Regression Testing, Integration Testing, Test Case Development, Defect Tracking, Exploratory Testing, Log Analysis |
-| **UI/UX Testing**       | Usability Testing, Accessibility (WCAG 2.1), A/B Testing, UAT                                                                                          |
-| **Test Management**     | QA Touch, TestRail, Xray, JIRA, Test Documentation                                                                                                    |
-| **Automation (Basic)**  | Selenium, Cypress                                                                                                                                     |
-| **API Testing**         | Postman                                                                                                                                               |
-| **Programming/Web**     | HTML5, CSS3, JavaScript, Python, SQL                                                                                                                  |
-| **Version Control**     | Git, GitHub, Bitbucket                                                                                                                                |
-| **Development Tools**   | Visual Studio, VS Code                                                                                                                                |
-| **Design & Prototyping**| Figma, Adobe XD, Framer                                                                                                                               |
-| **OS Environments**     | Windows, Mac OS, Linux (Shell/Bash), Android                                                                                                          |
-| **Workflow & Agile**    | Agile/SCRUM, Confluence, Notion, SharePoint, Atlassian Stack                                                                                          |
-| **Analytics & Monitoring** | Google Analytics                                                                                                                                  |
-| **Communication & Collaboration** | Slack, Microsoft Teams, Team Collaboration, Strategic Thinking, Workflow Prioritization                                                  |
-
+| **Category**              | **Tools & Skills**                                                                                                                                   |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **QA & Testing**          | Manual Testing, Functional Testing, Regression Testing, Integration Testing, Test Case Development, Defect Tracking, Log Analysis                     |
+| **UI/UX Testing**         | Usability Testing, Accessibility (WCAG 2.1), A/B Testing, UAT                                                                                          |
+| **Test Management**       | QA Touch, TestRail, Xray, JIRA, Test Documentation                                                                                                    |
+| **Automation (Basic)**    | Selenium, Cypress                                                                                                                                     |
+| **API Testing**           | Postman                                                                                                                                               |
+| **Programming/Web**       | HTML5, CSS3, JavaScript, Python, SQL                                                                                                                  |
+| **Version Control**       | Git, GitHub, Bitbucket                                                                                                                                |
+| **Development Tools**     | Visual Studio, VS Code                                                                                                                                |
+| **Design & Prototyping**  | Figma, Adobe XD, Framer                                                                                                                               |
+| **OS Environments**       | Windows, Mac OS, Linux (Shell/Bash), Android                                                                                                          |
+| **Workflow & Agile**      | Agile/SCRUM, Confluence, Notion, SharePoint, Atlassian Stack                                                                                          |
+| **Analytics & Monitoring**| Google Analytics                                                                                                                                       |
+| **Collaboration**         | Slack, Microsoft Teams, Strategic Thinking, Workflow Prioritization                                                                                  |
 
 ---
 
-## 📜 Certifications & Courses
+## 🎓 Education & Certifications
 
-| Certification / Course | Provider       | Date       |
-|------------------------|----------------|------------|
-| UX Design              | Google         | Ongoing    |
-| Quality Assurance      | Alison         | Mar 2025   |
-| Jira Fundamentals      | Atlassian      | Jul 2024   |
-| Data Protection, OHS   | Lawpilots      | 2024       |
-| Google Analytics       | Google         | 2022       |
-| Leadership & Dev.      | Univ. of Alberta | 2019     |
+### 🎓 Academic Degrees
+
+**MSc in Human-Computer Interaction**  
+_University of Siegen, Germany_  
+10/2020 – 01/2024 | Grade: Good
+
+**BSc in Computer Science**  
+_University of Macau, China_  
+08/2015 – 01/2020  
+- Asian Merit Scholarship (2015–2020)  
+- Gold Student Award (2017)  
+- Residential College Fellowship Award (2016)
+
+### 📜 Certifications & QA Courses
+
+| Title                                      | Provider           | Date / Status     |
+|-------------------------------------------|--------------------|-------------------|
+| **ISTQB Foundation Level**                | ISTQB              | In Progress       |
+| UX Design                                 | Google             | Ongoing           |
+| Quality Assurance                         | Alison             | Mar 2025          |
+| Jira Fundamentals                         | Atlassian          | Jul 2024          |
+| Data Protection & OHS                     | Lawpilots          | 2024              |
+| Web Accessibility (WCAG 2.1)              | W3C / Udacity      | Completed         |
+| Software Testing (Manual & Automated)     | freeCodeCamp       | Completed         |
+| Google Analytics                          | Google             | 2022              |
+| Leadership & Development                  | Univ. of Alberta   | 2019              |
 
 ---
 
@@ -107,22 +127,6 @@ Let’s create products users trust and love!
 - Delivered 99% bug-free releases via cross-browser tests for 500K+ monthly e-commerce users.  
 - Accelerated defect resolution time by 30% using detailed test plans and sprint-level cases.  
 - Eliminated 15% integration bugs via CI/CD, Selenium, Postman, JIRA, and regression testing.
-
----
-
-## 🎓 Education
-
-### 🎓 Master of Science (MSc) in Human-Computer Interaction (HCI)  
-**University of Siegen** | Germany  
-10/2020 – 01/2024  
-Grade: Good (German Standard)
-
-### 🎓 Bachelor of Science (BSc) in Computer Science  
-**University of Macau** | Macau, China  
-08/2015 – 01/2020  
-- Asian Merit Scholarship (2015–2020)  
-- Gold Student Award (2017)  
-- Residential College Fellowship Award (2016)
 
 ---
 
