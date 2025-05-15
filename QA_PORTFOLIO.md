@@ -1,6 +1,6 @@
-# 🧪 Shakhawat Hossain – QA & UX Portfolio
+# 🧪 Shakhawat Hossain – QA & Testing Portfolio
 
-Welcome to my Quality Assurance and UX Portfolio. Here you'll find a curated collection of test documentation, bug reports, research projects, and QA audits that showcase my approach to quality, usability, and product improvement.
+Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curated collection of test documentation, bug reports, research projects, and QA audits that showcase my approach to quality, usability, and product improvement.
 
 ---
 
@@ -23,7 +23,13 @@ Welcome to my Quality Assurance and UX Portfolio. Here you'll find a curated col
 
 ## 👨‍💻 About Me
 
-I'm a QA Engineer and UX/UI Designer with 2+ years of experience combining testing skills with human-centered design. I work with both digital products and web platforms, driven by a belief in quality, empathy, and user-first thinking.
+## 👋 Hi, I’m Shakhawat!
+
+I’m a multidisciplinary QA Engineer and UX Researcher with a passion for quality, usability, and user-first thinking. With over 3 years of hands-on experience, I specialize in manual testing, usability audits, and exploratory QA—ensuring that digital products not only work flawlessly but feel intuitive to use.
+
+Alongside my QA expertise, I bring additional skills in UX/UI design and web development, helping teams bridge the gap between user needs and technical delivery. Whether I’m writing test plans, conducting user research, or wireframing a new interface—I focus on building reliable, accessible, and meaningful digital experiences.
+
+Let’s create products users trust and love!
 
 > “Great digital experiences begin with precision and empathy.”
 
@@ -38,16 +44,24 @@ I'm a QA Engineer and UX/UI Designer with 2+ years of experience combining testi
 
 ---
 
-## 🛠 Skills, Tools and Technologies
+## 🛠 Skills, Tools & Technologies
 
-| Category       | Tools & Skills |
-|----------------|----------------|
-| Test Management | QA Touch, TestRail, Jira, Xray |
-| Automation (Basic) | Selenium, Cypress |
-| API Testing    | Postman |
-| Design & UX    | Figma, Adobe XD, Framer |
-| Web & Code     | HTML5, CSS3, JavaScript, Git, GitHub, VS Code |
-| Others         | Confluence, Notion, SharePoint, Google Analytics, Slack |
+| **Category**            | **Tools & Skills**                                                                                                                                   |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **QA & Testing**        | Manual Testing, Functional Testing, Regression Testing, Integration Testing, Test Case Development, Defect Tracking, Exploratory Testing, Log Analysis |
+| **UI/UX Testing**       | Usability Testing, Accessibility (WCAG 2.1), A/B Testing, UAT                                                                                          |
+| **Test Management**     | QA Touch, TestRail, Xray, JIRA, Test Documentation                                                                                                    |
+| **Automation (Basic)**  | Selenium, Cypress                                                                                                                                     |
+| **API Testing**         | Postman                                                                                                                                               |
+| **Programming/Web**     | HTML5, CSS3, JavaScript, Python, SQL                                                                                                                  |
+| **Version Control**     | Git, GitHub, Bitbucket                                                                                                                                |
+| **Development Tools**   | Visual Studio, VS Code                                                                                                                                |
+| **Design & Prototyping**| Figma, Adobe XD, Framer                                                                                                                               |
+| **OS Environments**     | Windows, Mac OS, Linux (Shell/Bash), Android                                                                                                          |
+| **Workflow & Agile**    | Agile/SCRUM, Confluence, Notion, SharePoint, Atlassian Stack                                                                                          |
+| **Analytics & Monitoring** | Google Analytics                                                                                                                                  |
+| **Communication & Collaboration** | Slack, Microsoft Teams, Team Collaboration, Strategic Thinking, Workflow Prioritization                                                  |
+
 
 ---
 
@@ -137,10 +151,10 @@ Grade: Good (German Standard)
 
 Each project includes a collection of:
 - Test Plans
-- Bug Reports
-- QA Summaries
 - Test Cases
-- QA Audits
+- Bug Reports
+- Test Reports
+- QA Reports
 
 ---
 
@@ -149,12 +163,33 @@ Each project includes a collection of:
 ```bash
 QA-Portfolio/
 │
+├── Test Plans/
+│   ├── test_plan_biponyshop.md
+│   ├── test_plan_climatico.md
+│   ├── test_plan_expensial.md
+│   ├── test_plan_healthify.md
+│   └── test_plan_taskyfier.md
+│
+├── Test Cases/
+│   ├── test_case_biponyshop.md
+│   ├── test_case_climatico.md
+│   ├── test_case_expensial.md
+│   ├── test_case_healthify.md
+│   └── test_case_taskyfier.md
+│
 ├── Bug Reports/
 │   ├── bug_report_biponyshop.md
 │   ├── bug_report_climatico.md
 │   ├── bug_report_expensial.md
 │   ├── bug_report_healthify.md
 │   └── bug_report_taskyfier.md
+│
+├── Test Reports/
+│   ├── test_report_biponyshop.md
+│   ├── test_report_climatico.md
+│   ├── test_report_expensial.md
+│   ├── test_report_healthify.md
+│   └── test_report_taskyfier.md
 │
 ├── QA Reports/
 │   ├── qa_report_biponyshop.md
@@ -163,17 +198,8 @@ QA-Portfolio/
 │   ├── qa_report_healthify.md
 │   └── qa_report_taskyfier.md
 │
-├── Test Cases/
-│   ├── test_case_climatico.md
-│   └── test_case_expensial.md
-│
-├── Test Plans/
-│   └── test_plan_taskyfier.md
-│
-├── Test Reports/
-│   └── test_report_healthify.md
-│
-└── README.md
+└── QA_PORTFOLIO.md
+
 ```
 
 ## 📚 Resources, Inspirations & Communities
@@ -201,49 +227,6 @@ QA-Portfolio/
 - 🌐 **Portfolio**: [shakhawat.digital](https://shakhawat.digital)
 - 📧 **Email**: hello@shakhawat.digital
 - 🔗 **LinkedIn**: [linkedin.com/in/mdshakhawathossain](https://linkedin.com/in/mdshakhawathossain)
-- 📍 **Location**: Essen, Germany *(open to relocation/remote)*
+- 📍 **Location**: Germany *(open to relocation/remote)*
 
 
-# 👨‍💻 Md. Shakhawat Hossain
-
-**QA Engineer | UX/UI Researcher | HCI Specialist**  
-_Essen, Germany | Open to Relocation / Remote_
-
----
-
-## 🚀 Summary
-
-Detail-oriented QA Engineer and UX researcher with a Master’s in Human-Computer Interaction and over 3 years of hands-on experience in software QA, usability testing, and user-centered design. Adept at performing manual and exploratory testing, creating scalable UX solutions, and ensuring high-quality digital products. Seeking roles that merge quality assurance with user experience to build products users trust and love.
-
----
-
-
-
----
-
-## 📚 Resources, Inspirations & Communities
-
-### 📖 Books
-- *Don't Make Me Think* – Steve Krug  
-- *The Design of Everyday Things* – Don Norman  
-- *Agile Testing* – Lisa Crispin & Janet Gregory
-
-### 🤝 Communities
-- [Ministry of Testing](https://www.ministryoftesting.com/)  
-- [UXNRW Meetup](https://www.meetup.com/UXNRW/)  
-- [TestBash Germany](https://www.ministryoftesting.com/events/testbash-germany)  
-- [German UPA](https://www.germanupa.de/)
-
-### 📰 Blogs
-- [Nielsen Norman Group](https://www.nngroup.com/articles/)  
-- [UX Collective](https://uxdesign.cc/)  
-- [Software Testing Help](https://www.softwaretestinghelp.com/)
-
----
-
-## 📞 Contact
-
-- 🌐 **Portfolio**: [shakhawat.digital](https://shakhawat.digital)  
-- 📧 **Email**: hello@shakhawat.digital  
-- 🔗 **LinkedIn**: [linkedin.com/in/mdshakhawathossain](https://linkedin.com/in/mdshakhawathossain)  
-- 📍 **Location**: Essen, Germany *(open to relocation/remote)*
