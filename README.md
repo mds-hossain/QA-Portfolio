@@ -202,7 +202,7 @@ QA-Portfolio/
 │   ├── qa_report_healthify.md
 │   └── qa_report_taskyfier.md
 │
-└── QA_PORTFOLIO.md
+└── README.md
 
 ```
 
