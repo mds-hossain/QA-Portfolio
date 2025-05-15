@@ -42,8 +42,4 @@
 ### Actual Result
 - The product was successfully added to the cart.
 
----
-
-# Additional Test Cases
-Include at least **10 test cases** for the entire app, covering user registration, cart management, order history, and more.
 
