@@ -211,18 +211,28 @@ QA-Portfolio/
 ### 📖 Books
 - *Don't Make Me Think* – Steve Krug  
 - *The Design of Everyday Things* – Don Norman  
-- *Agile Testing* – Lisa Crispin & Janet Gregory
+- *Agile Testing* – Lisa Crispin & Janet Gregory  
+- *Explore It!* – Elisabeth Hendrickson  
+- *Lessons Learned in Software Testing* – Cem Kaner, James Bach, and Bret Pettichord  
+- *A Practitioner's Guide to Software Test Design* – Lee Copeland  
 
 ### 🤝 Communities
-- [Ministry of Testing](https://www.ministryoftesting.com/)
-- [UXNRW Meetup](https://www.meetup.com/UXNRW/)
-- [TestBash Germany](https://www.ministryoftesting.com/events/testbash-germany)
-- [German UPA](https://www.germanupa.de/)
+- [Ministry of Testing](https://www.ministryoftesting.com/) – Global community for testers with articles, courses, and events  
+- [TestBash Germany](https://www.ministryoftesting.com/events/testbash-germany) – QA/testing conference with hands-on workshops and talks  
+- [QA Germany](https://www.meetup.com/topics/qa-testing/de/) – QA-focused meetups in Germany  
+- [UXNRW Meetup](https://www.meetup.com/UXNRW/) – UX and research community in North Rhine-Westphalia  
+- [German UPA](https://www.germanupa.de/) – German usability and user experience professionals association  
+- [Selenium Users Group](https://www.meetup.com/topics/selenium/) – For automation testers using Selenium  
+- [Test Automation University](https://testautomationu.applitools.com/) – Free courses on modern test automation tools and practices  
 
-### 📰 Blogs
-- [Nielsen Norman Group](https://www.nngroup.com/articles/)
-- [UX Collective](https://uxdesign.cc/)
-- [Software Testing Help](https://www.softwaretestinghelp.com/)
+### 📰 Blogs & Sites
+- [Software Testing Help](https://www.softwaretestinghelp.com/) – Tutorials, tools, and QA articles  
+- [Nielsen Norman Group](https://www.nngroup.com/articles/) – UX research and usability insights  
+- [UX Collective](https://uxdesign.cc/) – Design, usability, and experience stories  
+- [Ministry of Testing Blog](https://www.ministryoftesting.com/articles) – Real-world QA insights from the community  
+- [Angie Jones – Test Automation Blog](https://angiejones.tech/) – Automation frameworks, tools, and strategies  
+- [Google Testing Blog](https://testing.googleblog.com/) – Testing techniques and infrastructure at Google  
+- [Abstracta Blog](https://abstracta.us/blog/) – QA, performance testing, and automation thought leadership  
 
 ---
 
