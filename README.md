@@ -219,7 +219,8 @@ QA-Portfolio/
 ### 🤝 Communities
 - [Ministry of Testing](https://www.ministryoftesting.com/) – Global community for testers with articles, courses, and events  
 - [TestBash Germany](https://www.ministryoftesting.com/events/testbash-germany) – QA/testing conference with hands-on workshops and talks  
-- [QA Germany](https://www.meetup.com/topics/qa-testing/de/) – QA-focused meetups in Germany  
+- [QA Germany](https://www.meetup.com/topics/qa-testing/de/) – QA-focused meetups in Germany
+- [Daily Dev](https://app.daily.dev/onboarding) – Where developers suffer together  
 - [UXNRW Meetup](https://www.meetup.com/UXNRW/) – UX and research community in North Rhine-Westphalia  
 - [German UPA](https://www.germanupa.de/) – German usability and user experience professionals association  
 - [Selenium Users Group](https://www.meetup.com/topics/selenium/) – For automation testers using Selenium  
