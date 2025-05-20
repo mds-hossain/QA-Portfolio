@@ -86,7 +86,7 @@ _University of Macau, China_
 
 | Title                                      | Provider           | Date / Status     |
 |-------------------------------------------|--------------------|-------------------|
-| **ISTQB Foundation Level**                | ISTQB              | In Progress       |
+| **ISTQB 4.0+ Foundation Cert Prep**       | LinkedIn           | May 2015          |
 | UX Design                                 | Google             | Ongoing           |
 | Quality Assurance                         | Alison             | Mar 2025          |
 | Jira Fundamentals                         | Atlassian          | Jul 2024          |
