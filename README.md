@@ -87,10 +87,11 @@ _University of Macau, China_
 | Title                                      | Provider           | Date / Status     |
 |-------------------------------------------|--------------------|-------------------|
 | [**ISTQB 4.0+ Foundation Cert Prep**](https://www.linkedin.com/learning/certificates/8eb5ebaf97853886d47e725a5cd8ee1635316fa0a529ff1e17ad3c96f556118a?trk=share_certificate)       | LinkedIn           | May 2025          |
-| UX Design                                 | Google             | Ongoing           |
-| Quality Assurance                         | Alison             | Mar 2025          |
-| Jira Fundamentals                         | Atlassian          | Jul 2024          |
-| Data Protection & OHS                     | Lawpilots          | 2024              |
+| [**User Experience Design Fundamentals**](https://www.credly.com/badges/d4a67141-44b6-4446-8b19-b286b01a3341) | IBM             | June 2025       |
+| [**Fundamentals of Generative AI**](https://www.linkedin.com/learning/certificates/aa0609d363b7cea53b13715ab9cc011c23617904b162763b56e3ffdbf2e1b537?trk=share_certificate)               | Microsoft          | June 2025          |
+| [**Software Testing Professional Certificate**](https://www.linkedin.com/learning/certificates/940c8295d382a389718fce4b3edc15c843d11e5aa17ac2c645bc4477dccab137?trk=share_certificate)                        |  LambdaTest           | May 2025          |
+| [**Agile Project Management Professional Certificate**](https://www.linkedin.com/learning/certificates/aa0609d363b7cea53b13715ab9cc011c23617904b162763b56e3ffdbf2e1b537?trk=share_certificate)                        | Atlassian          | May 2025          |
+| Data Protection, OHS & Remote Work                    | Lawpilots          | 2024              |
 | Web Accessibility (WCAG 2.1)              | W3C / Udacity      | Completed         |
 | Software Testing (Manual & Automated)     | freeCodeCamp       | Completed         |
 | Google Analytics                          | Google             | 2022              |
