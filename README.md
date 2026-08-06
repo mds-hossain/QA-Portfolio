@@ -11,7 +11,7 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 3. [Skills, Tools & Technologies](#-skills-tools--technologies)
 4. [Education & Certifications](#-education--certifications)
 5. [QA Job Experience](#-qa-job-experience)
-6. [Projects](#-projects)
+6. [Selected Projects](#-selected-projects)
 7. [Main QA Projects](#-main-qa-projects)
 8. [QA Documentation](#-qa-documentation)
 9. [QA Portfolio Structure](#-qa-portfolio-structure)
@@ -26,7 +26,7 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 
 I’m a multidisciplinary Software QA Engineer specializing in end-to-end (E2E) automation, manual testing, and AI-assisted defect tracking, backed by a strong foundation in Human-Computer Interaction (HCI). With over 3 years of hands-on experience, I focus on bridging the gap between human-centered design and flawless technical execution.
 
-Rather than treating quality assurance and user experience as isolated silos, I combine AI-driven workflows with empirical user research to ensure enterprise platforms are operationally stable, scalable, and built around actual user needs. Whether I’m writing automated test scripts in Playwright, executing API testing with Postman, or conducting thorough usability evaluations—I focus on building reliable, accessible, and meaningful digital experiences.
+Rather than treating quality assurance and user experience as isolated silos, I combine AI-driven workflows with empirical user research to ensure enterprise platforms are operationally stable, scalable, and built around actual user needs. Whether I’m writing automated test scripts in Playwright, executing API testing with Postman, or conducting thorough usability evaluations, I focus on building reliable, accessible, and meaningful digital experiences.
 
 > “Great digital experiences begin with precision and empathy.”
 
@@ -41,7 +41,10 @@ Rather than treating quality assurance and user experience as isolated silos, I 
   * 4-Eyes Principle (peer review)
   * Shift-Left Quality Assurance
   * Risk-Based Test Strategy
-  * Think-Aloud Protocol & Cognitive Walkthroughs
+  * Think-Aloud Protocol for usability observation
+  * Cognitive Walkthroughs
+  * Wizard of Oz testing for early prototypes
+
 * **Development Methodologies**: Agile, Scrum, Kanban
 * **QA Documentation**: Test Plans, Test Cases, Bug Reports, QA Audit Reports
 
@@ -55,16 +58,16 @@ Rather than treating quality assurance and user experience as isolated silos, I 
 | **Test Automation** | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) E2E Testing, POM |
 | **API Testing** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) REST APIs, Microservices, API Integration |
 | **UI/UX Testing** | Usability Testing, Accessibility (WCAG 2.2 / EAA / BFSG), A/B Testing, Heuristic Evaluation, UAT |
-| **Test Management** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white) QA Touch, TestRail, Xray (Jira Native), Test Documentation |
+| **Test Management** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white) TestRail, Xray (Jira Native), QA Touch, Test Documentation |
 | **AI & Innovation** | ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) AI-Assisted Testing, Prompt Engineering for QA, LLM Scripting |
-| **Programming/Web** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) HTML5, CSS3 |
-| **Version Control** | Git, GitHub, Bitbucket |
-| **Development Tools** | Visual Studio, VS Code |
+| **Programming/Web** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white) |
+| **Development Tools** | ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 | **Design & Prototyping** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white) Adobe XD |
-| **OS Environments** | Windows, Mac OS, Linux (Shell/Bash), Android, iOS |
-| **Workflow & Agile** | Agile/SCRUM, Confluence, Notion, SharePoint, Atlassian Stack |
-| **Analytics & Monitoring** | Google Analytics |
-| **Collaboration** | Slack, Microsoft Teams, Strategic Thinking, Workflow Prioritization |
+| **OS Environments** | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Mac OS](https://img.shields.io/badge/-Mac_OS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=white) |
+| **Workflow & Agile** | Agile/SCRUM, ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) Component Documentation, SharePoint, Atlassian Stack |
+| **Analytics & Monitoring** | ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white) |
+| **Collaboration** | ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) Strategic Thinking, Workflow Prioritization |
 
 ---
 
@@ -127,7 +130,7 @@ _University of Macau, China_
 * Managed end-to-end test lifecycles within Agile frameworks leveraging Jira, TestRail, and QA Touch.
 * Collaborated within a 12-member Scrum team on UAT coordination and CI/CD process automation.
 
-### 🔹 Software QA and Usability Testing Intern  
+### 🔹 Intern, Software QA and Usability Testing  
 **CodeNotary Europe GmbH** | Munich, Germany  
 08/2023 - 10/2023  
 * Identified 15+ critical defects in Linux-based environments using Git to guarantee stable production layouts.
@@ -144,19 +147,22 @@ _University of Macau, China_
 ### 🔹 Junior Software QA & Test Engineer  
 **PriyoShop Limited** | Dhaka, Bangladesh  
 03/2020 - 09/2020  
-* Delivered 99% bug-free releases via cross-browser tests for 500K+ monthly e-commerce users.
-* Accelerated defect resolution time by 30% using detailed test plans and sprint-level cases.
-* Eliminated 15% integration bugs via CI/CD, Selenium, Postman, JIRA, and regression testing workflows.
+* Implemented and maintained continuous integration (CI/CD) pipelines to support deployment workflows.
+* Developed responsive user interfaces for web applications utilizing AngularJS across core feature layouts.
+* Executed manual test cases, regression testing, and black box testing to validate platform stability, tracking and verifying 30+ application defects using JIRA.
+
 
 ### 🔹 Junior IT Administrator & Web Developer  
 **University of Macau** | Macao, China  
 08/2017 - August 2019  
 * Resolved hardware, software, and network tasks by delivering comprehensive technical support to 200+ users.
 * Designed and engineered front-end layouts, user interfaces, and interactive kiosk platforms.
+* Provided cross-functional technical assistance for research and development (R&D) activities, communication strategies, and campus events.
+
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
 * **EuroTrack (Enterprise SaaS)** - Executed end-to-end functional and integration testing on a multi-tenant architecture, ensuring 100% data integrity for workforce logistics.
 * **Moodle Usability Evaluation (Master's Thesis)** - Conducted usability and functional tests on the Moodle UI, resolving 20+ core issues and workflow bugs.
@@ -166,7 +172,7 @@ _University of Macau, China_
 
 ---
 
-## 🚀 Main QA Projects
+## 🚀 QA Projects
 
 1. **Biponyshop** - QA Audit
 2. **Climatico** - Bug Analysis
