@@ -7,9 +7,9 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 ## 📑 Table of Contents
 
 1. [About Me](#-about-me)
-2. [QA Process & Methodologies](#-qa-process-&-methodologies)
-3. [Skills, Tools & Technologies](#-skills-tools-&-technologies)
-4. [Education & Certifications](#-education-&-certifications)
+2. [QA Process & Methodologies](#-qa-process--methodologies)
+3. [Skills, Tools & Technologies](#-skills-tools--technologies)
+4. [Education & Certifications](#-education--certifications)
 5. [QA Job Experience](#-qa-job-experience)
 6. [Selected Projects](#-selected-projects)
 7. [QA Projects](#-qa-projects)
@@ -34,9 +34,9 @@ Rather than treating quality assurance and user experience as isolated silos, I 
 
 ## ⚙️ QA Process & Methodologies
 
-* **Testing Types**: E2E Testing, AI-Assisted Testing, API Testing, Manual Testing, Functional Testing, Regression Testing, Usability Testing, UAT, Accessibility (WCAG 2.2), Performance (k6 / Lighthouse)
+* **Testing Types**: E2E Testing, AI-Assisted Testing, API Testing, Manual Testing, Functional Testing, Regression Testing, Usability Testing, A/B Testing, UAT, Accessibility (WCAG 2.1/2.2), Performance (k6 / Lighthouse)
 * **Exploratory Testing Techniques**: Session-Based Testing, Mind Mapping, Error Guessing
-* **Test Lifecycle**: Requirement Analysis -> Test Planning -> Test Case Design -> Execution -> Defect Reporting -> Retesting & Regression -> Closure
+* **Test Lifecycle**: Requirement Analysis → Test Planning → Test Case Design → Execution → Defect Reporting → Retesting & Regression → Closure
 * **Best Practices**:
   * 4-Eyes Principle (peer review)
   * Shift-Left Quality Assurance
@@ -165,7 +165,7 @@ _University of Macau, China_
 ## 🚀 Selected Projects
 
 * **EuroTrack (Enterprise SaaS)** - Executed end-to-end functional and integration testing on a multi-tenant architecture, ensuring 100% data integrity for workforce logistics.
-* **Moodle Usability Evaluation (Master's Thesis)** - Conducted usability and functional tests on the Moodle UI, resolving 20+ core issues and workflow bugs.
+* **E-learning Platform Evaluation** - Conducted usability and functional tests on the Moodle UI, resolving 20+ core issues and workflow bugs.
 * **PawTinder (Pet Adoption App)** - Performed end-to-end manual and UAT validation on 30+ interactive prototypes to verify user journeys.
 * **Chef Antonio (AI Cooking Coach)** - Evaluated system functionality and interface dialogue flows, increasing response accuracy by 25%.
 * **MACAS (Mobile Classroom Tool)** - Reduced task error rate by 40% through rigorous heuristic checking and manual test execution.
