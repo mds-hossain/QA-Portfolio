@@ -6,7 +6,7 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 
 ## 📑 Table of Contents
 
-1. [About Me](#-about-me)
+1. [About Me](#%E2%80%8D-about-me)
 2. [QA Process & Methodologies](#%EF%B8%8F-qa-process--methodologies)
 3. [Skills, Tools & Technologies](#-skills-tools--technologies)
 4. [Education & Certifications](#-education--certifications)
@@ -77,11 +77,11 @@ Rather than treating quality assurance and user experience as isolated silos, I 
 
 **MSc in Human-Computer Interaction**  
 _University of Siegen, Germany_  
-10/2020 – 01/2024 | Grade: Good
+10/2020 - 01/2024 | Grade: Good
 
 **BSc in Computer Science**  
 _University of Macau, China_  
-08/2015 – 01/2020  
+08/2015 - 01/2020  
 - Asian Merit Scholarship (2015–2020)  
 - Gold Student Award (2017)  
 - Residential College Fellowship Award (2016)
@@ -106,13 +106,13 @@ _University of Macau, China_
 
 ## 💼 QA Job Experience
 
-### 🔹 Applied AI & Test Engineer (Contract)
+### 🔹 Applied AI & Test Engineer 
 **EUROPAS GmbH** | Gelsenkirchen, Germany  
 01/2026 - Present  
 * Manage QA strategy and test lifecycle execution for internal enterprise SaaS platforms.
 * Design and execute 30+ end-to-end (E2E) automated test cases using Playwright.
-* Track and triage 50+ defects utilizing AI-assisted testing frameworks and environments.
-* Maintain test and production IT systems and provided technical consultation for industrial robotic automation projects.
+* Track and resolve 50+ defects utilizing AI-assisted testing frameworks and environments.
+* Maintain test and production IT systems and provide technical consultation for industrial robotic automation projects.
 
 ### 🔹 QA & Test Engineer (Project-Based)  
 **SOLCOM GmbH** | Remote, Germany  
@@ -148,13 +148,13 @@ _University of Macau, China_
 **PriyoShop Limited** | Dhaka, Bangladesh  
 03/2020 - 09/2020  
 * Implemented and maintained continuous integration (CI/CD) pipelines to support deployment workflows.
-* Developed responsive user interfaces for web applications utilizing AngularJS across core feature layouts.
+* Collaborated on AngularJS UI development, ensuring front-end code met strict responsive design and quality standards before testing.
 * Executed manual test cases, regression testing, and black box testing to validate platform stability, tracking and verifying 30+ application defects using JIRA.
 
 
 ### 🔹 Junior IT Administrator & Web Developer  
 **University of Macau** | Macao, China  
-08/2017 - August 2019  
+08/2017 - 08/2019  
 * Resolved hardware, software, and network tasks by delivering comprehensive technical support to 200+ users.
 * Designed and engineered front-end layouts, user interfaces, and interactive kiosk platforms.
 * Provided cross-functional technical assistance for research and development (R&D) activities, communication strategies, and campus events.
