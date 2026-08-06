@@ -7,7 +7,7 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 ## 📑 Table of Contents
 
 1. [About Me](#-about-me)
-2. [QA Process & Methodologies](#-qa-process--methodologies)
+2. [QA Process & Methodologies](#%EF%B8%8F-qa-process--methodologies)
 3. [Skills, Tools & Technologies](#-skills-tools--technologies)
 4. [Education & Certifications](#-education--certifications)
 5. [QA Job Experience](#-qa-job-experience)
@@ -106,7 +106,7 @@ _University of Macau, China_
 
 ## 💼 QA Job Experience
 
-### 🔹 Applied AI & System Test Engineer  
+### 🔹 Applied AI & Test Engineer (Contract)
 **EUROPAS GmbH** | Gelsenkirchen, Germany  
 01/2026 - Present  
 * Manage QA strategy and test lifecycle execution for internal enterprise SaaS platforms.
