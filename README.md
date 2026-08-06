@@ -7,9 +7,9 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 ## 📑 Table of Contents
 
 1. [About Me](#-about-me)
-2. [QA Process & Methodologies](#-qa-process--methodologies)
-3. [Skills, Tools & Technologies](#-skills-tools--technologies)
-4. [Education & Certifications](#-education--certifications)
+2. [QA Process & Methodologies](#-qa-process-&-methodologies)
+3. [Skills, Tools & Technologies](#-skills-tools-&-technologies)
+4. [Education & Certifications](#-education-&-certifications)
 5. [QA Job Experience](#-qa-job-experience)
 6. [Selected Projects](#-selected-projects)
 7. [QA Projects](#-qa-projects)
