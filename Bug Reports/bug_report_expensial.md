@@ -46,10 +46,5 @@ After adding a new expense, the dashboard does not immediately reflect the updat
 
 ---
 
-## Screenshots
-- [Bug Screenshot](https://link-to-screenshot)
-
----
-
 ## Resolution
 - **Status**: Open
