@@ -24,7 +24,7 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 
 ### 👋 Hi, I’m Shakhawat!
 
-I’m a multidisciplinary QA Engineer and UX Researcher with a passion for quality, usability, and user-first thinking. With over 3 years of hands-on experience, I specialize in manual testing, usability audits, and exploratory QA—ensuring that digital products not only work flawlessly but feel intuitive to use.
+I’m a multidisciplinary QA Engineer and UX Researcher with a passion for quality, usability, and user-first thinking. With over 3 years of hands-on experience, I specialize in manual testing, usability audits, and exploratory QA, ensuring that digital products not only work flawlessly but feel intuitive to use.
 
 Alongside my QA expertise, I bring additional skills in UX/UI design and web development, helping teams bridge the gap between user needs and technical delivery. Whether I’m writing test plans, conducting user research, or wireframing a new interface—I focus on building reliable, accessible, and meaningful digital experiences.
 
