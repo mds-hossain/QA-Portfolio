@@ -192,6 +192,9 @@ Each project includes a collection of:
 * Test Reports
 * QA Reports
 
+> **📌 Note on Documentation:** The files within these directories are curated excerpts rather than exhaustive test suites. They are specifically designed to demonstrate my testing methodology, documentation standards, and structural approach to QA without overwhelming the reviewer.
+
+
 ---
 
 ## 🗂 QA Portfolio Structure
