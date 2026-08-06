@@ -45,8 +45,7 @@ After adding products to the cart, the user is unable to proceed to the checkout
 
 ---
 
-## Screenshots
-- [Bug Screenshot](https://link-to-screenshot)
+
 
 ---
 
