@@ -46,10 +46,5 @@ After making a request to the API to fetch weather data, the data does not updat
 
 ---
 
-## Screenshots
-- [Bug Screenshot](https://link-to-screenshot)
-
----
-
 ## Resolution
 - **Status**: Open
