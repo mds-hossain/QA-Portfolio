@@ -1,6 +1,6 @@
-# 💻 Shakhawat Hossain – QA & Testing Portfolio
+# 💻 Shakhawat Hossain - Software QA & Test Automation Portfolio
 
-Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curated collection of test documentation, bug reports, research projects, and QA audits that showcase my approach to quality, usability, and product improvement.
+Welcome to my Quality Assurance and Testing Portfolio. Here you will find a curated collection of test documentation, automated scripts, API test suites, and QA audits that showcase my approach to product stability and intelligent software testing.
 
 ---
 
@@ -10,8 +10,8 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 2. [QA Process & Methodologies](#-qa-process--methodologies)
 3. [Skills, Tools & Technologies](#-skills-tools--technologies)
 4. [Education & Certifications](#-education--certifications)
-5. [QA Job Experience](#-qa-job-experience)
-6. [Academic Projects](#-academic-projects)
+5. [QA Professional Experience](#-qa-professional-experience)
+6. [Projects](#-projects)
 7. [Main QA Projects](#-main-qa-projects)
 8. [QA Documentation](#-qa-documentation)
 9. [QA Portfolio Structure](#-qa-portfolio-structure)
@@ -22,48 +22,41 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 
 ## 👨‍💻 About Me
 
-### 👋 Hi, I’m Shakhawat!
+### 👋 Hi, I am Shakhawat!
 
-I’m a multidisciplinary QA Engineer and UX Researcher with a passion for quality, usability, and user-first thinking. With over 3 years of hands-on experience, I specialize in manual testing, usability audits, and exploratory QA, ensuring that digital products not only work flawlessly but feel intuitive to use.
+I am a Software QA Engineer specializing in end-to-end (E2E) automation, manual testing, and AI-assisted defect tracking. With over 3 years of hands-on experience, I focus on building reliable, scalable, and operationally stable enterprise applications. 
 
-Alongside my QA expertise, I bring additional skills in UX/UI design and web development, helping teams bridge the gap between user needs and technical delivery. Whether I’m writing test plans, conducting user research, or wireframing a new interface—I focus on building reliable, accessible, and meaningful digital experiences.
+My expertise spans the full software testing lifecycle (STLC) within Agile environments. Whether I am writing automated test scripts using Playwright, conducting rigorous API testing with Postman, or integrating AI workflows to accelerate bug detection, my goal is to ensure software works flawlessly before it hits production.
 
-> “Great digital experiences begin with precision and empathy.”
+> "Quality is not an act, it is an engineered habit."
 
 ---
 
 ## ⚙️ QA Process & Methodologies
 
-- **Testing Types**: Manual Testing, Functional Testing, Regression Testing, Usability Testing, A/B Testing, Accessibility (WCAG 2.1)
-- **Exploratory Testing Techniques**: Session-Based Testing, Mind Mapping, Error Guessing
-- **Test Lifecycle**: Requirement Analysis → Test Planning → Test Case Design → Execution → Defect Reporting → Retesting & Regression → Closure
-- **Best Practices**:
-  - 4-Eyes Principle (peer review)
-  - Think-Aloud Protocol for usability observation
-  - Cognitive Walkthroughs
-  - Wizard of Oz testing for early prototypes
-- **Development Methodologies**: Agile, Scrum, Kanban
-- **QA Documentation**: Test Plans, Test Cases, Bug Reports, QA Audit Reports
+* **Testing Types**: E2E Testing, AI-Assisted Testing, API Testing, Manual Testing, Functional Testing, Regression Testing, UAT, Accessibility (WCAG 2.2), Performance (k6 / Lighthouse)
+* **Exploratory Testing Techniques**: Session-Based Testing, Mind Mapping, Error Guessing
+* **Test Lifecycle**: Requirement Analysis -> Test Planning -> Test Case Design -> Execution -> Defect Reporting -> Retesting & Regression -> Closure
+* **Best Practices**:
+  * 4-Eyes Principle (peer review)
+  * Shift-Left Testing
+  * Risk-Based Testing
+* **Development Methodologies**: Agile, Scrum, Kanban
+* **QA Documentation**: Test Plans, Test Cases, Bug Reports, QA Audit Reports
 
 ---
 
 ## 🛠 Skills, Tools & Technologies
 
-| **Category**              | **Tools & Skills**                                                                                                                                   |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **QA & Testing**          | Manual Testing, Functional Testing, Regression Testing, Integration Testing, Test Case Development, Defect Tracking, Log Analysis                     |
-| **UI/UX Testing**         | Usability Testing, Accessibility (WCAG 2.1), A/B Testing, UAT                                                                                          |
-| **Test Management**       | QA Touch, TestRail, Xray, JIRA, Test Documentation                                                                                                    |
-| **Automation (Basic)**    | Selenium, Cypress                                                                                                                                     |
-| **API Testing**           | Postman                                                                                                                                               |
-| **Programming/Web**       | HTML5, CSS3, JavaScript, Python, SQL                                                                                                                  |
-| **Version Control**       | Git, GitHub, Bitbucket                                                                                                                                |
-| **Development Tools**     | Visual Studio, VS Code                                                                                                                                |
-| **Design & Prototyping**  | Figma, Adobe XD, Framer                                                                                                                               |
-| **OS Environments**       | Windows, Mac OS, Linux (Shell/Bash), Android                                                                                                          |
-| **Workflow & Agile**      | Agile/SCRUM, Confluence, Notion, SharePoint, Atlassian Stack                                                                                          |
-| **Analytics & Monitoring**| Google Analytics                                                                                                                                       |
-| **Collaboration**         | Slack, Microsoft Teams, Strategic Thinking, Workflow Prioritization                                                                                  |
+| **Category** | **Tools & Skills** |
+|---|---|
+| **Test Automation** | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) |
+| **API Testing** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) REST APIs, Microservices |
+| **Test Management** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white) TestRail, Xray, QA Touch |
+| **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **CI/CD & Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) Linux Environments |
+| **AI in Testing** | AI-Assisted Testing, GitHub Copilot, Prompt Engineering for QA, LLM Scripting |
+| **Quality Engineering** | Page Object Model (POM), Cross-Platform Testing (iOS/Android/Web) |
 
 ---
 
@@ -71,101 +64,90 @@ Alongside my QA expertise, I bring additional skills in UX/UI design and web dev
 
 ### 🎓 Academic Degrees
 
-**MSc in Human-Computer Interaction**  
-_University of Siegen, Germany_  
-10/2020 – 01/2024 | Grade: Good
+**MSc in Human-Computer Interaction** *University of Siegen, Germany* 10/2020 - 01/2024
+* Focus areas: Usability testing, accessibility, UX/UI, User research methods.
 
-**BSc in Computer Science**  
-_University of Macau, China_  
-08/2015 – 01/2020  
-- Asian Merit Scholarship (2015–2020)  
-- Gold Student Award (2017)  
-- Residential College Fellowship Award (2016)
+**BSc in Computer Science** *University of Macau, China* 08/2015 - 01/2020  
+* Asian Merit Scholarship, Gold Student Award, Residential College Fellowship Award.
 
 ### 📜 Certifications & QA Courses
 
-| Title                                      | Provider           | Date / Status     |
-|-------------------------------------------|--------------------|-------------------|
-| [**ISTQB 4.0+ Foundation Cert Prep**](https://www.linkedin.com/learning/certificates/8eb5ebaf97853886d47e725a5cd8ee1635316fa0a529ff1e17ad3c96f556118a?trk=share_certificate)       | LinkedIn           | May 2025          |
-| [**User Experience Design Fundamentals**](https://www.credly.com/badges/d4a67141-44b6-4446-8b19-b286b01a3341) | IBM             | June 2025       |
-| [**Fundamentals of Generative AI**](https://www.linkedin.com/learning/certificates/aa0609d363b7cea53b13715ab9cc011c23617904b162763b56e3ffdbf2e1b537?trk=share_certificate)               | Microsoft          | June 2025          |
-| [**Software Testing Professional Certificate**](https://www.linkedin.com/learning/certificates/940c8295d382a389718fce4b3edc15c843d11e5aa17ac2c645bc4477dccab137?trk=share_certificate)                        |  LambdaTest           | May 2025          |
-| [**Agile Project Management Professional Certificate**](https://www.linkedin.com/learning/certificates/aa0609d363b7cea53b13715ab9cc011c23617904b162763b56e3ffdbf2e1b537?trk=share_certificate)                        | Atlassian          | May 2025          |
-| Data Protection, OHS & Remote Work                    | Lawpilots          | 2024              |
-| Web Accessibility (WCAG 2.1)              | W3C / Udacity      | Completed         |
-| Software Testing (Manual & Automated)     | freeCodeCamp       | Completed         |
-| Google Analytics                          | Google             | 2022              |
-| Leadership & Development                  | Univ. of Alberta   | 2019              |
+| Title | Provider | Status |
+|---|---|---|
+| [**ISTQB 4.0+ Foundation Cert Prep**](https://www.linkedin.com/learning/certificates/8eb5ebaf97853886d47e725a5cd8ee1635316fa0a529ff1e17ad3c96f556118a?trk=share_certificate) | LinkedIn | May 2025 |
+| **ISTQB Foundation Level Certificate** | ISTQB | In Progress |
+| [**Software Testing Professional Certificate**](https://www.linkedin.com/learning/certificates/940c8295d382a389718fce4b3edc15c843d11e5aa17ac2c645bc4477dccab137?trk=share_certificate) | LambdaTest | May 2025 |
+| [**User Experience Design Fundamentals**](https://www.credly.com/badges/d4a67141-44b6-4446-8b19-b286b01a3341) | IBM | June 2025 |
+| [**Fundamentals of Generative AI**](https://www.linkedin.com/learning/certificates/aa0609d363b7cea53b13715ab9cc011c23617904b162763b56e3ffdbf2e1b537?trk=share_certificate) | Microsoft | June 2025 |
+| [**Agile Project Management Professional**](https://www.linkedin.com/learning/certificates/aa0609d363b7cea53b13715ab9cc011c23617904b162763b56e3ffdbf2e1b537?trk=share_certificate) | Atlassian | May 2025 |
+| Data Protection, OHS & Remote Work | Lawpilots | 2024 |
 
 ---
 
-## 💼 QA Job Experience
+## 💼 QA Professional Experience
+
+### 🔹 Applied AI & System Test Engineer  
+**EUROPAS GmbH** | Gelsenkirchen, Germany | 01/2026 - Present  
+* Designed and executed 30+ end-to-end (E2E) automated test cases using Playwright.
+* Tracked and triaged 50+ defects utilizing AI-assisted testing tools for internal applications.
+* Administered and maintained test and production environments to ensure stable test execution.
+* Provided technical consultation for industrial robotic automation projects.
+
+### 🔹 QA & Test Engineer (Project-Based)  
+**SOLCOM GmbH** | Remote, Germany | 01/2025 - 11/2025  
+* Documented and tracked 50+ critical P1/P2 defects utilizing Jira for defect lifecycle management.
+* Developed 60+ API test cases using Postman to validate backend microservices.
+* Executed comprehensive cross-platform testing across iOS, Android, and web environments.
 
 ### 🔹 Software QA and Test Management Engineer  
-**Cogitanda Dataprotect AG** | Cologne, Germany  
-12/2023 – 09/2024  
-- Executed 100+ manual, exploratory, regression, and destructive tests for product release.  
-- Streamlined test lifecycle using QA Touch, JIRA, and Confluence, boosting efficiency by 20%.  
-- Collaborated with IT team of 12 to enhance UAT and enable Robotic Process Automation.
+**Cogitanda Dataprotect AG** | Cologne, Germany | 12/2023 - 09/2024  
+* Executed 100+ manual, exploratory, and regression tests across 8 major releases within an agile SDLC.
+* Supported test automation initiatives using Playwright and validated component/integration usability.
+* Created and maintained test lifecycles using Jira, TestRail, and QA Touch.
+* Collaborated with a 12-member Scrum team on UAT and CI/CD automation pipelines.
 
-### 🔹 Intern, Software QA and Usability Testing  
-**CodeNotary Europe GmbH** | Munich, Germany  
-08/2023 – 10/2023  
-- Resolved 15+ critical defects in Linux-based environments, ensuring product quality.  
-- Optimized workflows in DevOps, UI automation, and front-end testing for 10% faster delivery.  
-- Achieved 95% test coverage for enterprise web apps through well-structured test strategies.
-
-### 🔹 Research Assistant, UX/UI Design & Usability Testing  
-**FabLab, University of Siegen** | Siegen, Germany  
-01/2022 – 07/2022  
-- Developed web platform using PHP and XAMPP to support 20+ EU academic research projects.  
-- Designed and tested scalable UX/UI components with 50+ users via structured usability testing.  
-- Enhanced 3D printing designs through process optimization, cutting prototyping errors by 25%.
-
-### 🔹 Junior QA Engineer  
-**PriyoShop Limited** | Dhaka, Bangladesh  
-03/2020 – 09/2020  
-- Delivered 99% bug-free releases via cross-browser tests for 500K+ monthly e-commerce users.  
-- Accelerated defect resolution time by 30% using detailed test plans and sprint-level cases.  
-- Eliminated 15% integration bugs via CI/CD, Selenium, Postman, JIRA, and regression testing.
+### 🔹 Software QA and Usability Testing Intern  
+**CodeNotary Europe GmbH** | Munich, Germany | 08/2023 - 10/2023  
+* Identified 15+ critical defects in Linux-based environments using Git.
+* Optimized DevOps and UI automation workflows leveraging Selenium.
+* Conducted API testing utilizing Postman and REST clients to ensure integration stability.
 
 ---
 
-## 🎓 Academic Projects
+## 🚀 Projects
 
-- **PawTinder (Pet Adoption App)** – Led UAT, achieved 98% bug-free release.  
-- **Chef Antonio (Cooking Coach)** – Developed dialog flows; 90% voice accuracy.  
-- **MACAS (Mobile Classroom Tool)** – Reduced task error rate by 40%.  
-- **E-learning Platform Evaluation** – Conducted heuristic usability evaluation, raised satisfaction score by 25%.
+* **EuroTrack (Enterprise SaaS)** - Executed end-to-end functional and integration testing on a multi-tenant architecture, ensuring 100% data integrity for workforce logistics (03/2026 - 06/2026).
+* **Moodle Usability Evaluation (Master's Thesis)** - Conducted rigorous usability and functional tests on the Moodle UI, successfully resolving 20+ interface and workflow issues.
+* **PawTinder (Pet Adoption App)** - Performed end-to-end manual testing on 30+ interactive prototypes to validate core user journeys.
+* **Chef Antonio (AI Cooking Coach)** - Evaluated system functionality and improved AI response accuracy by 25%.
 
 ---
 
 ## 🚀 Main QA Projects
 
-1. **Biponyshop – QA Audit**
-2. **Climatico – Bug Analysis**
-3. **Expensial – Functional Testing**
-4. **Healthify – QA Evaluation**
-5. **Taskyfier – Test Strategy**
-6. **MACAS – UX Research**
-7. **DataCore – Regression Testing**
+1. **Biponyshop** - QA Audit
+2. **Climatico** - Bug Analysis
+3. **Expensial** - Functional Testing
+4. **Healthify** - QA Evaluation
+5. **Taskyfier** - Test Strategy
+6. **DataCore** - Regression Testing
 
 ---
 
 ## 📂 QA Documentation
 
 Each project includes a collection of:
-- Test Plans
-- Test Cases
-- Bug Reports
-- Test Reports
-- QA Reports
+* Test Plans
+* Test Cases
+* Bug Reports
+* Test Reports
+* QA Reports
 
 ---
 
 ## 🗂 QA Portfolio Structure
 
-```bash
+~~~text
 QA-Portfolio/
 │
 ├── Test Plans/
@@ -204,45 +186,42 @@ QA-Portfolio/
 │   └── qa_report_taskyfier.md
 │
 └── README.md
-
-```
+~~~
 
 ## 📚 Resources, Inspirations & Communities
 
 ### 📖 Books
-- *Don't Make Me Think* – Steve Krug  
-- *The Design of Everyday Things* – Don Norman  
-- *Agile Testing* – Lisa Crispin & Janet Gregory  
-- *Explore It!* – Elisabeth Hendrickson  
-- *Lessons Learned in Software Testing* – Cem Kaner, James Bach, and Bret Pettichord  
-- *A Practitioner's Guide to Software Test Design* – Lee Copeland  
+* *Don't Make Me Think* - Steve Krug
+* *The Design of Everyday Things* - Don Norman
+* *Agile Testing* - Lisa Crispin & Janet Gregory
+* *Explore It!* - Elisabeth Hendrickson
+* *Lessons Learned in Software Testing* - Cem Kaner, James Bach, and Bret Pettichord
+* *A Practitioner's Guide to Software Test Design* - Lee Copeland
 
 ### 🤝 Communities
-- [Ministry of Testing](https://www.ministryoftesting.com/) – Global community for testers with articles, courses, and events  
-- [TestBash Germany](https://www.ministryoftesting.com/events/testbash-germany) – QA/testing conference with hands-on workshops and talks  
-- [QA Germany](https://www.meetup.com/topics/qa-testing/de/) – QA-focused meetups in Germany
-- [Daily Dev](https://app.daily.dev/onboarding) – Where developers suffer together  
-- [UXNRW Meetup](https://www.meetup.com/UXNRW/) – UX and research community in North Rhine-Westphalia  
-- [German UPA](https://www.germanupa.de/) – German usability and user experience professionals association  
-- [Selenium Users Group](https://www.meetup.com/topics/selenium/) – For automation testers using Selenium  
-- [Test Automation University](https://testautomationu.applitools.com/) – Free courses on modern test automation tools and practices  
+* [Ministry of Testing](https://www.ministryoftesting.com/) - Global community for testers with articles, courses, and events
+* [TestBash Germany](https://www.ministryoftesting.com/events/testbash-germany) - QA/testing conference with hands-on workshops and talks
+* [QA Germany](https://www.meetup.com/topics/qa-testing/de/) - QA-focused meetups in Germany
+* [Daily Dev](https://app.daily.dev/onboarding) - Where developers suffer together
+* [UXNRW Meetup](https://www.meetup.com/UXNRW/) - UX and research community in North Rhine-Westphalia
+* [German UPA](https://www.germanupa.de/) - German usability and user experience professionals association
+* [Selenium Users Group](https://www.meetup.com/topics/selenium/) - For automation testers using Selenium
+* [Test Automation University](https://testautomationu.applitools.com/) - Free courses on modern test automation tools and practices
 
 ### 📰 Blogs & Sites
-- [Software Testing Help](https://www.softwaretestinghelp.com/) – Tutorials, tools, and QA articles  
-- [Nielsen Norman Group](https://www.nngroup.com/articles/) – UX research and usability insights  
-- [UX Collective](https://uxdesign.cc/) – Design, usability, and experience stories  
-- [Ministry of Testing Blog](https://www.ministryoftesting.com/articles) – Real-world QA insights from the community  
-- [Angie Jones – Test Automation Blog](https://angiejones.tech/) – Automation frameworks, tools, and strategies  
-- [Google Testing Blog](https://testing.googleblog.com/) – Testing techniques and infrastructure at Google  
-- [Abstracta Blog](https://abstracta.us/blog/) – QA, performance testing, and automation thought leadership  
+* [Software Testing Help](https://www.softwaretestinghelp.com/) - Tutorials, tools, and QA articles
+* [Nielsen Norman Group](https://www.nngroup.com/articles/) - UX research and usability insights
+* [UX Collective](https://uxdesign.cc/) - Design, usability, and experience stories
+* [Ministry of Testing Blog](https://www.ministryoftesting.com/articles) - Real-world QA insights from the community
+* [Angie Jones - Test Automation Blog](https://angiejones.tech/) - Automation frameworks, tools, and strategies
+* [Google Testing Blog](https://testing.googleblog.com/) - Testing techniques and infrastructure at Google
+* [Abstracta Blog](https://abstracta.us/blog/) - QA, performance testing, and automation thought leadership
 
 ---
 
 ## 📞 Contact
 
-- 🌐 **Portfolio**: [shakhawat.digital](https://shakhawat.digital)
-- 📧 **Email**: shossain.um@gmail.com
-- 🔗 **LinkedIn**: [linkedin.com/in/mds-hossain](https://linkedin.com/in/mds-hossain)
-- 📍 **Location**: Germany *(open to relocation/remote)*
-
-
+* 🌐 **Portfolio**: [shossain.xyz](https://shossain.xyz)
+* 📧 **Email**: shossain.um@gmail.com
+* 🔗 **LinkedIn**: [linkedin.com/in/mds-hossain](https://linkedin.com/in/mds-hossain)
+* 📍 **Location**: Germany *(open to relocation/remote)*
