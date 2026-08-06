@@ -12,7 +12,7 @@ Welcome to my Quality Assurance and Testing Portfolio. Here you'll find a curate
 4. [Education & Certifications](#-education--certifications)
 5. [QA Job Experience](#-qa-job-experience)
 6. [Selected Projects](#-selected-projects)
-7. [Main QA Projects](#-main-qa-projects)
+7. [QA Projects](#-qa-projects)
 8. [QA Documentation](#-qa-documentation)
 9. [QA Portfolio Structure](#-qa-portfolio-structure)
 10. [Resources, Inspirations & Communities](#-resources-inspirations--communities)
