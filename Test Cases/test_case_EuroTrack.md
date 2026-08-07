@@ -8,25 +8,25 @@
 ***
 
 ## Test Case ID: TC-01
-### Summary: Verifying Brutto/Netto/MwSt reverse calculation engine
-* **Description**: Test the auto-calculation logic when toggling between Netto and Brutto inputs with VAT applied.
-* **Preconditions**: User is logged in as Admin and is viewing a Room Card pricing panel.
+### Summary: Verifying horizontal group-by layout mutation (Dynamic Tabs)
+* **Description**: Test that selecting a "Group By" parameter shifts the data grid into a horizontal tabbed view displaying the correct entity name, entry count, and aggregated group valuation.
+* **Preconditions**: Multiple active hotel records spanning different parent companies, cities, and countries are populated in the system.
 
 ### Steps
 
 | Step | Action | Expected Result | Status |
 |------|--------|-----------------|--------|
-| 1 | Activate the "Brutto/Netto anzeigen" toggle. | Brutto, Netto, and MwSt fields become visible. | Pass |
-| 2 | Input a Netto value and select 19% MwSt. | Brutto field auto-calculates the correct total. | Pass |
-| 3 | Clear Netto, input a Brutto value, and select 7% MwSt. | Netto field auto-calculates correctly. | Pass |
+| 1 | Click the "Group by Hotel" button on the advanced control workspace. | Layout mutates into horizontal tabs; each tab displays the Hotel name, a count chip of entries, and the total financial value underneath. | Pass |
+| 2 | Click on a specific horizontal tab. | The main list panel filters instantly to display only the rows belonging to that selected group. | Pass |
+| 3 | Toggle through "Group by Company" and "Group by City" tabs. | The horizontal tabs dynamically re-render with precise numeric values without freezing the client-side state. | Pass |
 
 ### Expected Result
-* Financial inputs perfectly reverse-calculate without manual saving or layout shifting.
+* Layout correctly displays structural entity hierarchies via horizontal tabs rather than a compressed single grid view.
 
 ### Actual Result
-* System successfully calculated bidirectional tax brackets on blur.
+* Horizontal tabs dynamically computed aggregated group costs and re-rendered layout smoothly.
 
-![Brutto Netto UI Toggle](./assets/tc01_brutto_netto.png)
+![Horizontal Grouping Tabs](./assets/tc01_group_tabs.png)
 
 ***
 
@@ -126,7 +126,7 @@
 | Step | Action | Expected Result | Status |
 |------|--------|-----------------|--------|
 | 1 | Attempt to edit a hotel name in the main row. | Input field is disabled or reverts changes instantly. | Pass |
-| 2 | Click on a Room Card pricing panel. | Edit toggles and price input fields are hidden or disabled. | Pass |
+| 2 | Click on a Room Card panel to trigger a pricing change. | Action is blocked; edit toggles and inputs are disabled for non-editor profiles. | Pass |
 | 3 | Attempt to change user roles in the share menu. | The share menu is blocked and inaccessible. | Pass |
 
 ### Expected Result
@@ -224,23 +224,25 @@
 ***
 
 ## Test Case ID: TC-11
-### Summary: Verifying undo/redo state snapshot recovery
-* **Description**: Test the time-travel pill functionality to reverse accidental data mutation.
-* **Preconditions**: User is actively editing prices across multiple durations.
+### Summary: Verifying real-time sync between statistics widgets and list dashboards
+* **Description**: Test that filtering parameters applied on the data list immediately update the state arrays bound to the SVG charts and charts components.
+* **Preconditions**: Master calculations pipeline is running with `useMemo` hooks configured for client-side evaluation.
 
 ### Steps
 
 | Step | Action | Expected Result | Status |
 |------|--------|-----------------|--------|
-| 1 | Change the total cost of a room card from 100 to 500. | New total is saved in the current snapshot. | Pass |
-| 2 | Click the left Undo arrow pill. | The total cost instantly reverts to 100. | Pass |
-| 3 | Click the right Redo arrow pill. | The total cost reapplies the 500 value. | Pass |
+| 1 | Apply a multi-parameter filter isolating only "Overdue" invoices for "Munich". | Main data list instantly filters to match criteria. | Pass |
+| 2 | Observe the Glowing Single-Ring Financial Donut widget at the top section. | The SVG arcs and connective elbow pointers dynamically compress to represent only the localized sub-metrics. | Pass |
+| 3 | Check the Proportional Allocation Bar Chart. | Vertical month blocks drop to reflect exact expenditures for the filtered sub-array. | Pass |
 
 ### Expected Result
-* The snapshot engine reliably holds state history up to 20 steps for forgiving UI correction.
+* Unification of data views ensures chart states sync instantaneously with the dashboard list without database refetches.
 
 ### Actual Result
-* State history array successfully mapped forward and backward mutations.
+* Client-side hooks successfully broadcasted state changes across list and visualization layers simultaneously.
+
+![Widget State Synchronization](./assets/tc11_widget_sync.png)
 
 ***
 
