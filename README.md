@@ -108,11 +108,11 @@ _University of Macau, China_
 
 ### 🔹 Applied AI & Test Engineer 
 **EUROPAS GmbH** | Gelsenkirchen, Germany  
-01/2026 - Present  
-* Manage QA strategy and test lifecycle execution for internal enterprise SaaS platforms.
-* Design and execute 30+ end-to-end (E2E) automated test cases using Playwright.
-* Track and resolve 50+ defects utilizing AI-assisted testing frameworks and environments.
-* Maintain test and production IT systems and provide technical consultation for industrial robotic automation projects.
+01/2026 - 10/2026  
+* Managed QA strategy and test lifecycle execution for internal enterprise SaaS platforms.
+* Designed and executed 30+ end-to-end (E2E) automated test cases using Playwright.
+* Tracked and resolved 50+ defects utilizing AI-assisted testing frameworks and environments.
+* Maintained test and production IT systems and provided technical consultation for industrial robotic automation projects.
 
 ### 🔹 QA & Test Engineer (Project-Based)  
 **SOLCOM GmbH** | Remote, Germany  
